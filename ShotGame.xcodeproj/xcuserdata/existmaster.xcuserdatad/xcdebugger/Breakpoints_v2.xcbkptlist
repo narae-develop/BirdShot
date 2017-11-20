@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShotGame/ViewController.swift"
+            timestampString = "470503000.114422"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.ViewController.&#xcc38;&#xc0c8;&#xcd94;&#xac00;&#xd0c0;&#xc774;&#xba38;.setter : Swift.Optional&lt;__ObjC.NSTimer&gt;"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/ViewController.swift"
+                  timestampString = "470422971.072781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.ViewController.&#xcc38;&#xc0c8;&#xcd94;&#xac00;&#xd0c0;&#xc774;&#xba38;.materializeForSet : Swift.Optional&lt;__ObjC.NSTimer&gt;"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/ViewController.swift"
+                  timestampString = "470422971.073322"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.ViewController.init (ShotGame.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; ShotGame.ViewController"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/ViewController.swift"
+                  timestampString = "470422971.07393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.ViewController.init (ShotGame.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ShotGame.ViewController&gt;"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/ViewController.swift"
+                  timestampString = "470422971.074574"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShotGame/ViewController.swift"
+            timestampString = "470505005.240418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "&#xc2dc;&#xac04;&#xccb4;&#xd06c;(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShotGame/OverViewController.swift"
+            timestampString = "470529415.896173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.OverViewController.__deallocating_deinit"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/OverViewController.swift"
+                  timestampString = "470515696.476674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.OverViewController.init (ShotGame.OverViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; ShotGame.OverViewController"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/OverViewController.swift"
+                  timestampString = "470515696.477974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShotGame.OverViewController.init (ShotGame.OverViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ShotGame.OverViewController&gt;"
+                  moduleName = "ShotGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Toshiba/Desktop/yagom-swift_yagom-56ce5ce61d23/ShotGame/ShotGame/OverViewController.swift"
+                  timestampString = "470515696.478276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShotGame/OverViewController.swift"
+            timestampString = "470985237.100553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
